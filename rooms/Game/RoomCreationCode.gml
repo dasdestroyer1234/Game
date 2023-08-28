@@ -1,0 +1,1 @@
+global.player_direction=0
